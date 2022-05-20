@@ -5,8 +5,8 @@ export default {
   kit: {
     adapter: adapter({
       // default options are shown
-      pages: 'build',
-      assets: 'build',
+      pages: 'dist',
+      assets: 'dist',
       fallback: null,
       precompress: false
     }),
