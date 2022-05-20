@@ -2,13 +2,7 @@
 
 `wails init -n PROJECT_NAME -t https://github.com/tgpa/wails-sveltekit-static`
 
-`cd PROJECT_NAME/frontend && npm install && npm run build`
-
-`cd .. && wails dev`
-
-or
-
-`cd .. && wails build`
+`cd PROJECT_NAME && wails build`
 
 ## About
 
